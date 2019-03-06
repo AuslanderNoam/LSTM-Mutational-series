@@ -24,7 +24,7 @@
 % % % 2. PART2_PREDICT_SEQ - predict the next mutation in the time-sequence
 
 
-% % % 3. PART3_CONSTRUCD_DATA - construction of simalated mutational data
+% % % 3. PART3_CONSTRUCT_DATA - construction of simalated mutational data
 
 
 % % % 4. PART4_PREDICT_INTERACTIONS - predicting occurrence of mutations from 
