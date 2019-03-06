@@ -29,10 +29,10 @@
 % % % % % C. Functions:
 
 % 1. TrainLSTM
-%%%%% raining LSTM to predict mutation dim1 fron a sequence up to dim1-1
+%%%%% Training LSTM to predict mutation dim1 fron a sequence up to dim1-1
 
 % 2. TrainLSTM2
-%%%%% raining LSTM to predict mutation dim1 fron a sequence up to dim1-1 (using 'Trail' last mutation each time)
+%%%%% Training LSTM to predict mutation dim1 fron a sequence up to dim1-1 (using 'Trail' last mutation each time)
 
 % 3. getAUCLSTM
 %%%%% Get test AUC fron trained LSTM next mutation prediction
