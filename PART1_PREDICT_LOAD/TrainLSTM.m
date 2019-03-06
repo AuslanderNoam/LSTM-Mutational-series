@@ -3,11 +3,11 @@ function [tnet,XTS,YTS,sm] = TrainLSTM(dim1,MUTD2)
 
 %%%%% INPUT:
 %%% dim1 - dimension, number of mutations to use for training
-%%% MUTD2 - data structure for training, the order discrete mutational data
+%%% MUTD2 - data structure for training, the ordered discrete mutational data
 
 %%%%% OUTPUT:
 %%% tnet - the trained network
-%%% XTS - the training data, disctere mutational data) 
+%%% XTS - the training data, disctere mutational data 
 %%% YTS - the training labels, high(1) vs. low(0) mutational load
 %%% sm - the training mutational load, non discrete
 
