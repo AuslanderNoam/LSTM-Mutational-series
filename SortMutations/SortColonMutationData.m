@@ -39,7 +39,7 @@ MUTD.score=ss2;
 
 
 %%2. Sort mutational data by order score
-MUTD.tab2 = double(MUTD.tab>0); %%%%DECIDE
+MUTD.tab2 = double(MUTD.tab>0); %%%%Cutoff is currently 0
 
 
 sm = MUTD.score';
