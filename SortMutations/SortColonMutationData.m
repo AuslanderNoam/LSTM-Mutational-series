@@ -27,7 +27,7 @@ end
 
 
 %%Calc ratios of each mutation 
-I2 = P11./P22;
+I2 = P11./P22; % This is the order score (#Co-occuring/#not co-occuring)
 
 %%Remove Nans and Inf
 I2(I2==Inf) = 0;
